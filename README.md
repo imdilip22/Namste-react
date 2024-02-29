@@ -1,2 +1,2 @@
 # Namste-react
-Author-Dilip Ram
+Author-Dilip Ram Ahir
